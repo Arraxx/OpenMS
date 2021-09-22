@@ -333,7 +333,7 @@ namespace OpenMS
 
  protected:
     /// maximal isotopes which is used to calculate the distribution
-    Size max_isotope_;
+    Size max_isotope_;;
     /// flag to determine whether masses should be rounded or not
     bool round_masses_;
 
